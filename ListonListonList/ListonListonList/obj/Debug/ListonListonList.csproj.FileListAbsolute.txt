@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\bin\Debug\ListonListonList.exe.config
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\bin\Debug\ListonListonList.exe
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\bin\Debug\ListonListonList.pdb
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\obj\Debug\ListonListonList.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\obj\Debug\ListonListonList.exe
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\obj\Debug\ListonListonList.pdb
+C:\Users\TEVERTS\source\repos\ListonListonList\ListonListonList\obj\Debug\ListonListonList.csprojAssemblyReference.cache

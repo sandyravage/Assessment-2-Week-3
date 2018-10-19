@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe.config
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.exe
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\bin\Debug\OddOneOut.pdb
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.exe
+C:\Users\TEVERTS\source\repos\OddOneOut\OddOneOut\obj\Debug\OddOneOut.pdb
